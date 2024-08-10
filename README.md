@@ -1,0 +1,1 @@
+This is a repo containing Vaadin Components that use Bootstrap CSS for styling. The develolment has been pause in favor of the java version for now: https://github.com/tomavelev/java_bootstrap_vaadin_components
